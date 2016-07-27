@@ -1,0 +1,20 @@
+{
+  "name": "videos",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " budo app.js"
+  },
+  "author": "ramsha",
+  "license": "ISC",
+  "devDependencies": {
+    "budo": "^4.1.0"
+  },
+  "dependencies": {
+    "getusermedia": "^2.0.0",
+    "node-persist": "0.0.11",
+    "simple-peer": "^6.0.4"
+  },
+  "description": ""
+}
